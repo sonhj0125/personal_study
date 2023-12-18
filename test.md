@@ -1,2 +1,2 @@
-### Study 1day
+# Study 1day
 ## 1. 안녕하세요
