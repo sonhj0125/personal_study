@@ -1,4 +1,4 @@
-package chap1자바를시작하기전에;
+package chap1;
 
 public class Hello {
 
