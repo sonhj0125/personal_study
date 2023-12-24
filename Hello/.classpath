@@ -5,6 +5,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="자바의정석기초편"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
