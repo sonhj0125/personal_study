@@ -3,7 +3,7 @@ package chap2;
 public class _03_예제2_4 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		int x = 5;                           // int x;와 x = 5;를 이처럼 한 줄로 합칠 수 있다.
 		System.out.println(x);               // 화면에 x의 값인 5가 출력된다.
 		
