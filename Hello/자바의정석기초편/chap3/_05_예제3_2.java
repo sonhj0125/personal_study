@@ -1,6 +1,6 @@
 package chap3;
 
-public class _05_Ex3_2 {
+public class _05_예제3_2 {
     public static void main(String args[]) {
      int i = 5, j = 0;
         
