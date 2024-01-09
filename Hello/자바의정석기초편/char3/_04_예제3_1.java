@@ -9,5 +9,4 @@ public class _04_예제3_1 {
 		System.out.println("x = " + x);
 		System.out.println("y = " + y);
 	}
-
 }
