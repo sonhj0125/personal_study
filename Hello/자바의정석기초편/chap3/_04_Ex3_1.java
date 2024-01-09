@@ -1,7 +1,6 @@
-package char3;
+package chap3;
 
-public class _04_예제3_1 {
-
+public class _04_Ex3_1 {
 	public static void main(String[] args) {
 		int x, y;
 		x = y = 3;    // y에 3이 저장된 후에, x에 3이 저장된다.
